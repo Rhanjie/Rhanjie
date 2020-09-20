@@ -23,9 +23,9 @@
 
 ### How to reach me:
 
-- <img align="left" alt="Discord" width="26px" src="https://simpleicons.org/icons/discord.svg" /> RhAnjiE#2005
-- <img align="left" alt="Slack" width="26px" src="https://simpleicons.org/icons/slack.svg" /> Marcin Dyla
-- <img align="left" alt="Linkedin" width="26px" src="https://simpleicons.org/icons/linkedin.svg" /> https://www.linkedin.com/in/rhanjie/
-- <img align="left" alt="Warsztat.gd" width="26px" src="https://simpleicons.org/icons/wikipedia.svg" /> https://warsztat.gd/user/Rughailon
+- <img align="left" alt="Discord" width="26px" src="https://simpleicons.org/icons/discord.svg" /> RhAnjiE#2005 <br />
+- <img align="left" alt="Slack" width="26px" src="https://simpleicons.org/icons/slack.svg" /> Marcin Dyla <br />
+- <img align="left" alt="Linkedin" width="26px" src="https://simpleicons.org/icons/linkedin.svg" /> https://www.linkedin.com/in/rhanjie/ <br />
+- <img align="left" alt="Warsztat.gd" width="26px" src="https://simpleicons.org/icons/wikipedia.svg" /> https://warsztat.gd/user/Rughailon 
 
 <img align="left" alt="RhAnjiE's Github Stats" src="https://github-readme-stats-puce-six.vercel.app/api?username=Rhanjie&show_icons=true&hide_border=true" />
