@@ -10,8 +10,8 @@
 <img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="Lua" width="26px" src="https://simpleicons.org/icons/lua.svg" /> <br />
 
-<img align="left" alt="Unity" width="26px" src="https://simpleicons.org/icons/java.svg" />
-<img align="left" alt="Intellij" width="26px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="Unity" width="26px" src="https://simpleicons.org/icons/unity.svg" />
+<img align="left" alt="Intellij" width="26px" src="https://simpleicons.org/icons/intellijidea.svg" />
 <img align="left" alt="Oculus" width="26px" src="https://simpleicons.org/icons/oculus.svg" />
 <img align="left" alt="Json" width="26px" src="https://simpleicons.org/icons/json.svg" />
 <img align="left" alt="Gradle" width="26px" src="https://simpleicons.org/icons/gradle.svg" /> <br />
