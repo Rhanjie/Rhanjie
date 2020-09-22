@@ -16,10 +16,7 @@
 <img align="left" alt="Json" width="26px" src="https://simpleicons.org/icons/json.svg" />
 <img align="left" alt="Gradle" width="26px" src="https://simpleicons.org/icons/gradle.svg" /> <br />
 
-### Currently learning:
-
-<img align="left" alt="Rust" width="26px" src="https://simpleicons.org/icons/rust.svg" />
-<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" /> <br />
+#### Im' currently learning Rust:
 
 ### How to reach me:
 
