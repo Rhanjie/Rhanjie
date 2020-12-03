@@ -1,4 +1,4 @@
-## Hi there, I'm Marcin - Junior Unity Developer
+## Hi there, I'm Marcin - Unity VR Developer
 
 ### Known languages:
 
