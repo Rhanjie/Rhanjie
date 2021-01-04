@@ -16,7 +16,7 @@
 <img align="left" alt="Json" width="26px" src="https://simpleicons.org/icons/json.svg" />
 <img align="left" alt="Gradle" width="26px" src="https://simpleicons.org/icons/gradle.svg" /> <br /><br />
 
-### Some of my projects:
+### Some of my projects with private repos:
 <details>
 <summary>Falleswen - New Land</summary>
 The isometric strategy inspired by Stronghold and Empire Earth series <br><br>
