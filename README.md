@@ -48,7 +48,7 @@ C# | Unity3D
 [Presentation](https://www.youtube.com/watch?v=_dtoRghL8f8)
 
 <b>Screens:</b>
-![](https://media-exp1.licdn.com/dms/image/C4E2DAQEPE-3wShugOA/profile-treasury-image-shrink_1280_1280/0/1606755206397?e=1609887600&v=beta&t=MuO3TnkOrknQohYOWQnrcoAt2fy0xLcv1r3aHinXzPM)
+![](https://i.imgur.com/AqnSdGc.png)
 </details>
 
 <!--- Next Section !--->
@@ -64,7 +64,7 @@ C# | Unity3D
 [Presentation](https://youtu.be/1I4Wg2f9CVo)
 
 <b>Screens:</b>
-![](https://media-exp1.licdn.com/dms/image/C4E2DAQEgrsVJk7XqJw/profile-treasury-image-shrink_1280_1280/0/1606755592314?e=1609887600&v=beta&t=MdA4DxxgYcuYROiPNItctMYghgLOUXpm8JiO3tJPbIQ)
+![](https://i.imgur.com/IpfDEr5.png)
 </details>
 
 <!--- Next Section !--->
