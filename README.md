@@ -29,9 +29,9 @@ C++17 | Lua 5.1 | SFML 2.5.1 | Sol2 2.20.6
 [Devlog ENG](https://rhanjie.itch.io/falleswen-new-land)
 
 <b>Screens:</b>
+![](https://i.imgur.com/39f2RSv.png)
 ![](https://i.imgur.com/d7z7GOM.png)
 ![](https://i.imgur.com/u1KmGDb.png)
-![](https://i.imgur.com/J3CyBTm.png)
 </details>
 
 <!--- Next Section !--->
