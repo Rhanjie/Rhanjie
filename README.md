@@ -3,7 +3,7 @@
 ### Known languages:
 
 <img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
-<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg" />
+<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/sharp.svg" />
 <img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg" />
 <img align="left" alt="Lua" width="26px" style="padding-top:10px; " src="https://simpleicons.org/icons/lua.svg" /> <br /> <br />
 
