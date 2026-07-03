@@ -1,4 +1,6 @@
-## Hi there, I'm Marcin - Unity VR Developer
+## Hi there, I'm Marcin!
+
+<b>Lead Unity & Unreal Engine Developer</b> with nearly 7 years of commercial experience delivering interactive 3D, VR and real-time applications. Experienced in software architecture, technical leadership, product development and mentoring development teams. Led the architectural redesign and migration of a mature Unity application into a new Unreal Engine solution. Passionate about designing scalable systems, solving complex technical challenges and continuosly improving development workflows.
 
 ### Known languages:
 
@@ -109,14 +111,5 @@ Java | Kotlin | Spigot
 
 ### How to reach me:
 - <img alt="Discord" width="26px" src="https://simpleicons.org/icons/discord.svg" /> <b>RhAnjiE#2005</b> <br />
-- <img alt="Slack" width="26px" src="https://simpleicons.org/icons/slack.svg" /> <b>Marcin Dyla</b> <br />
-- <img alt="Linkedin" width="26px" src="https://simpleicons.org/icons/linkedin.svg" /> <b>https://www.linkedin.com/in/rhanjie/</b> <br />
-- <img alt="Warsztat.gd" width="26px" src="https://simpleicons.org/icons/wikipedia.svg" /> <b>https://warsztat.gd/user/Rughailon</b> 
+- <img alt="Linkedin" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-square-icon.png" /> <b>https://www.linkedin.com/in/rhanjie/</b> <br />
 
-<a href="https://github.com/Rhanjie/Rhanjie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhanjie&hide=glsl,shaderlab&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/Rhanjie/Rhanjie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhanjie&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RhAnjiE's GitHub Stats" />
-</a> 
