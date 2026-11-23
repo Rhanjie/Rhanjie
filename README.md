@@ -12,13 +12,7 @@
 
 <b>Lead Unity & Unreal Engine Developer</b> with nearly 7 years of commercial experience delivering interactive 3D, VR and real-time applications. Experienced in software architecture, technical leadership, product development and mentoring development teams. Led the architectural redesign and migration of a mature Unity application into a new Unreal Engine solution. Passionate about designing scalable systems, solving complex technical challenges and continuously improving development workflows.
 
-Throughout my career, I've progressed from Junior Developer to Technical Lead, taking on increasing responsibility for software architecture, product development and technical leadership. I enjoy solving complex engineering challenges, designing scalable systems and turning ideas into reliable, maintainable software.
-
 My experience includes developing large commercial applications, modernizing existing solutions, introducing new technologies and building internal tools that improve development workflows. I also mentor developers, collaborate closely with multidisciplinary teams and help drive technical decision-making throughout the development process.
-
-I hold a Bachelor's degree in Computer Science and was awarded the Rector's Scholarship for outstanding academic performance.
-
-Outside of work, I'm passionate about fantasy, LARP, sewing and video games. I've been programming since 2014, when my curiosity about game development led me to create my first projects.
 
 ## Tech stack
 
@@ -46,8 +40,19 @@ Outside of work, I'm passionate about fantasy, LARP, sewing and video games. I'v
   <img src="assets/badges/git.svg" alt="Git" height="30" />
   <img src="assets/badges/plasticscm.svg" alt="Plastic SCM" height="30" />
   <img src="assets/badges/svn.svg" alt="SVN" height="30" />
+</p>
+
+<p>
   <img src="assets/badges/cicd.svg" alt="CI/CD integration" height="30" />
   <img src="assets/badges/streaming.svg" alt="Unity Streaming" height="30" />
   <img src="assets/badges/vr.svg" alt="Virtual Reality" height="30" />
   <img src="assets/badges/mods.svg" alt="Mods" height="30" />
 </p>
+
+## Background
+
+Throughout my career, I've progressed from Junior Developer to Technical Lead, taking on increasing responsibility for software architecture, product development and technical leadership. I enjoy solving complex engineering challenges, designing scalable systems and turning ideas into reliable, maintainable software.
+
+I hold a Bachelor's degree in Computer Science and was awarded the Rector's Scholarship for outstanding academic performance.
+
+Outside of work, I'm passionate about fantasy, LARP, sewing and video games. I've been programming since 2014, when my curiosity about game development led me to create my first projects.
