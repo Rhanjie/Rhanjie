@@ -1,115 +1,61 @@
-## Hi there, I'm Marcin!
+<div align="center">
 
-<b>Lead Unity & Unreal Engine Developer</b> with nearly 7 years of commercial experience delivering interactive 3D, VR and real-time applications. Experienced in software architecture, technical leadership, product development and mentoring development teams. Led the architectural redesign and migration of a mature Unity application into a new Unreal Engine solution. Passionate about designing scalable systems, solving complex technical challenges and continuosly improving development workflows.
+<img src="assets/banner.svg" alt="Marcin “Rhanjie” - Lead Unity & Unreal Engine Developer" width="100%" />
 
-### Known languages:
+<br /><br />
 
-<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
-<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/sharp.svg" />
-<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg" />
-<img align="left" alt="Lua" width="26px" style="padding-top:10px; " src="https://simpleicons.org/icons/lua.svg" /> <br /> <br />
+<a href="https://www.linkedin.com/in/rhanjie/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="36" /></a>&nbsp;
+<a href="https://rhanjie.github.io"><img src="assets/badges/portfolio.svg" alt="Portfolio" height="36" /></a>&nbsp;
+<a href="https://rhanjie.itch.io"><img src="assets/badges/itch.svg" alt="itch.io" height="36" /></a>
 
-### Known tools:
+</div>
 
-<img align="left" alt="Unity" width="26px" src="https://simpleicons.org/icons/unity.svg" />
-<img align="left" alt="Intellij" width="26px" src="https://simpleicons.org/icons/intellijidea.svg" />
-<img align="left" alt="Oculus" width="26px" src="https://simpleicons.org/icons/oculus.svg" />
-<img align="left" alt="Json" width="26px" src="https://simpleicons.org/icons/json.svg" />
-<img align="left" alt="Gradle" width="26px" src="https://simpleicons.org/icons/gradle.svg" /> <br /><br />
+<br />
 
-### Some of my projects with private repos:
-<details>
-<summary>Falleswen - New Land</summary>
-The isometric strategy inspired by Stronghold and Empire Earth series <br><br>
+## About me
 
-<b>Technology:</b>
-C++17 | Lua 5.1 | SFML 2.5.1 | Sol2 2.20.6
-<br>
-<b>Links:</b>
-[Warsztat.gd](https://warsztat.gd/projects/falleswen) | 
-[Devlog PL](http://forum.warsztat.gd/index.php/topic,31418.0.html) | 
-[Devlog ENG](https://rhanjie.itch.io/falleswen-new-land)
+I'm a **Lead Unity & Unreal Engine Developer** with nearly 7 years of commercial experience delivering interactive 3D, VR and real-time applications. Over that time I've grown from Junior Developer to Technical Lead, taking on increasing responsibility for software architecture, product development and the people who build it.
 
-<b>Screens:</b>
-![](https://i.imgur.com/39f2RSv.png)
-![](https://i.imgur.com/d7z7GOM.png)
-![](https://i.imgur.com/u1KmGDb.png)
-</details>
+I enjoy solving complex engineering challenges, designing scalable systems and turning ideas into reliable, maintainable software.
 
-<!--- Next Section !--->
+## What I do
 
-<details>
-<summary>Control Station VR</summary>
-Project for universities in which you need to check the technical condition of the car and complete the test correctly.<br><br>
+- **Software architecture** - designing scalable systems for large commercial applications
+- **Engine migration** - led the architectural redesign and migration of a mature Unity application into a new Unreal Engine solution
+- **VR & real-time 3D** - building interactive experiences from prototype to production
+- **Internal tooling** - creating tools that improve and speed up development workflows
+- **Technical leadership** - mentoring developers, working with multidisciplinary teams and driving technical decisions
 
-<b>Technology:</b>
-C# | Unity3D
-<br>
-<b>Links:</b>
-[Presentation](https://www.youtube.com/watch?v=_dtoRghL8f8)
+## Tech stack
 
-<b>Screens:</b>
-![](https://i.imgur.com/AqnSdGc.png)
-</details>
+**Languages**
 
-<!--- Next Section !--->
+<p>
+  <img src="assets/badges/cpp.svg" alt="C++" height="30" />
+  <img src="assets/badges/csharp.svg" alt="C#" height="30" />
+  <img src="assets/badges/kotlin.svg" alt="Kotlin" height="30" />
+  <img src="assets/badges/lua.svg" alt="Lua" height="30" />
+</p>
 
-<details>
-<summary>Dancing Kitchen VR</summary>
-A rhythm and movement game in which we have to sort products thrown to us by the evil fairy to the rhythm of any music we have on the disc.<br><br>
+**Engines & platforms**
 
-<b>Technology:</b>
-C# | Unity3D
-<br>
-<b>Links:</b>
-[Presentation](https://youtu.be/1I4Wg2f9CVo)
+<p>
+  <img src="assets/badges/unity.svg" alt="Unity" height="30" />
+  <img src="assets/badges/unreal.svg" alt="Unreal Engine" height="30" />
+  <img src="assets/badges/meta.svg" alt="Meta Quest VR" height="30" />
+</p>
 
-<b>Screens:</b>
-![](https://i.imgur.com/IpfDEr5.png)
-</details>
+**Tools**
 
-<!--- Next Section !--->
+<p>
+  <img src="assets/badges/rider.svg" alt="Rider" height="30" />
+  <img src="assets/badges/intellij.svg" alt="IntelliJ IDEA" height="30" />
+  <img src="assets/badges/gradle.svg" alt="Gradle" height="30" />
+  <img src="assets/badges/git.svg" alt="Git" height="30" />
+</p>
 
-<details>
-<summary>Plugins for Seggelin Server</summary>
-Reactivation of the most popular role play server in Poland, in which you play the role of a poor peasant. <br><br>
+## Background
 
-I made proprietary plugins that completely change the previously known gameplay. For example:
- 1. <b>Jail System</b>      - Creating and manage prisons and arresting bad players
- 2. <b>Lock System</b>      - Locking chests and doors and the mechanic of breaking in with a lockpick.
- 3. <b>Crafting System</b>  - Better crafting system with cooldowns and limitations + new items
- 4. <b>Biome Changer</b>    - Fast changing biomes for map creators.
-
-<b>Technology:</b>
-Kotlin | Spigot
-<br>
-<b>Links:</b>
-[Website](https://seggelin.pl/)
-
-<b>Screens:</b>
-![](https://seggelin.pl/screens/1.jpg)
-![](https://seggelin.pl/screens/2.jpg)
-![](https://seggelin.pl/screens/4.jpg)
-![](https://seggelin.pl/screens/7.jpg)
-</details>
-
-<!--- Next Section !--->
-
-<details>
-<summary>Plugins for Emporium Server</summary>
-Next reactivation of the role play server, in which you play the role of a poor peasant. <br><br>
-
-I was commissioned to create three large plugins that add new mechanics to game:
- 1. <b>Mines</b>             - The extender for FabledKingdoms: Mine regions for kingdoms and better crafting with cooldowns and item limitations. 
- 2. <b>Notice Board</b>      - My own configurable quest system with notice boards and rewards.
- 3. <b>Recasting System</b>  - New way of recasting items into additional types of ingots like Milthir or Star Iron.
-
-<b>Technology:</b>
-Java | Kotlin | Spigot
-<br>
-</details>
-
-### How to reach me:
-- <img alt="Discord" width="26px" src="https://simpleicons.org/icons/discord.svg" /> <b>RhAnjiE#2005</b> <br />
-- <img alt="Linkedin" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-square-icon.png" /> <b>https://www.linkedin.com/in/rhanjie/</b> <br />
-
+- Bachelor's degree in Computer Science, awarded the **Rector's Scholarship** for outstanding academic performance
+- Programming since 2014, when curiosity about game development led me to create my first projects
+- Outside of work: fantasy, LARP, sewing and video games
